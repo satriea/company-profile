@@ -1,7 +1,7 @@
 export const hero = {
   eyebrow: "SINAR MAS SELLULER",
 
-  title: "Connecting People Through Technology Wowowowo",
+  title: "Connecting People Through Technology",
 
   description:
     "Menghadirkan pengalaman retail teknologi yang terpercaya melalui jaringan toko dan layanan yang terus berkembang.",
